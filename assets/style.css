@@ -135,7 +135,7 @@ button i {
 
 @media screen and (max-width: 600px) {
     article {
-        width: 320px !important;
+        width: 300px !important;
     }
 }
 
